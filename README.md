@@ -109,3 +109,11 @@ ros2 topic echo /hello_world_topic
 ros2 node list
 ros2 node info /minimal_publisher
 ```
+
+---
+
+## Kontakt / Contact
+
+**Author:** Christian Pfitzner  
+**GitHub:** [@christianpfitzner](https://github.com/christianpfitzner)  
+**Repository:** [my_hello_ros_cpp](https://github.com/christianpfitzner/my_hello_ros_cpp)
