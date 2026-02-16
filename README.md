@@ -1,4 +1,4 @@
-# My Hello Ros C++
+# My Hello ROS C++
 
 Kleines **ROS 2 (rclcpp)**-Beispielpaket als Einstieg für den Blockkurs **„Einführung in die mobile Robotik"** an der Technischen Hochschule Nürnberg Georg Simon Ohm.  
 Das Repo zeigt die wichtigsten ROS2-Grundideen anhand eines minimalen **Publisher/Subscriber**-Beispiels in **C++**:
