@@ -114,6 +114,7 @@ ros2 node info /minimal_publisher
 
 ## Kontakt / Contact
 
-**Author:** Christian Pfitzner  
+**Author:** Prof. Dr. Christian Pfitzner  
 **GitHub:** [@christianpfitzner](https://github.com/christianpfitzner)  
+**E-Mail:** [christian.pfitzner@th-nuernberg.de](mailto:christian.pfitzner@th-nuernberg.de)
 **Repository:** [my_hello_ros_cpp](https://github.com/christianpfitzner/my_hello_ros_cpp)
